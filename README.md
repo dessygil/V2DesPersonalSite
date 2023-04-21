@@ -67,3 +67,8 @@ If you have any questions or comments, feel free to [contact me](mailto:youremai
 - [<img src="https://img.icons8.com/material-rounded/48/000000/github.png"/> GitHub](https://github.com/dessygil)
 
 Thanks for visiting my website! I hope you enjoy my content.
+
+
+Personal Notes On what I need to do,
+make a dockerfile nginx and kubernetes
+build CI/CD which continually runs all my tests whenever I compile with axe, cypress, jest
